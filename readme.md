@@ -34,3 +34,9 @@
 ```bash
   npm start
 ```
+
+- Caso queira gravar novas ações pelo Playwright execute o comando abaixo com o Playwright instalado no projeto:
+
+```bash
+  npx playwright codegen site.com
+```
